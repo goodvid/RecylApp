@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75489041875",
+    "firebase_url": "https://rereer-5f42d.firebaseio.com",
+    "project_id": "rereer-5f42d",
+    "storage_bucket": "rereer-5f42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75489041875:android:6d04e5c588995a5f1ae326",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75489041875-tlupc23mk0k226s3k3mbbt30tut1j62g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjLFMaoGIBcsPxxCOAtfk-Jg-_OG0O9uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75489041875-tlupc23mk0k226s3k3mbbt30tut1j62g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
